@@ -1,1 +1,9 @@
+:root {
+  --col_base: #151318;
+  --col_accent: #702eb2;
+  --col_border: #353239;
+  --col_text: #ffffff;
+  --col_base-2: #1a191d;
+}
+
 @import "tailwindcss";
